@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Name: Michael Setiawan<br><br>Role: iOS Developer & UI/UX Designer<br><br>Background: Graduate of Apple Developer Academy @IL<br><br>Tech Stack: Swift, SwiftUI, Figma, Xcode, plus web dev (HTML, CSS, Laravel, ReactJS)
+I'm Michael Setiawan, an iOS Developer and UI/UX Designer, and a graduate of the Apple Developer Academy @IL. I specialize in building mobile experiences with Swift, SwiftUI, and Xcode, and I bring ideas to life through design using Figma. Beyond Apple ecosystems, I also have web development skills. My broader tech toolkit includes JavaScript, Firebase, SQLite, MySQL, Supabase, Kotlin, GitHub, and design tools like Adobe Illustrator, Sketch, and Affinity Designer, along with front-end frameworks such as Bootstrap and TailwindCSS. You can explore my design work on Behance and connect with me professionally on LinkedIn.
 
 
 ## 🌐 Socials:
